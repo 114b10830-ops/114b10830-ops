@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**114b10830-ops/114b10830-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 
 
 - 🔭 曾經會飛
 - 🌱 一天有喝3600毫升水
